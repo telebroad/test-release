@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/telebroad/test-release/issues"
   },
-  "homepage": "https://github.com/telebroad/test-release#readme"
+  "homepage": "https://github.com/telebroad/test-release#readme",
+  "dependencies": {
+    "underscore": "^1.10.2"
+  }
 }
